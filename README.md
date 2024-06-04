@@ -1,0 +1,1 @@
+Project is about an app maed using react-native for basically Object Detection - real time detection using mobile phone cameras and gallery based posts i.e is preset on custom dataset of plastics and their types.
